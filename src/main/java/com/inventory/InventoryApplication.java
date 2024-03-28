@@ -9,8 +9,15 @@ public class InventoryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryApplication.class, args);
 		System.out.println("Hello World");
-		int b 
-		blank  check h
+		int b   
+ 
+ 		 
+                         
+ 		 
+ 		 
+ 		    
+		    
+ 		blank  check h
 		System.out.println("Checking Pre commit hook..........!");
 	}
 

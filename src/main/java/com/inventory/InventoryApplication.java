@@ -13,7 +13,7 @@ public class InventoryApplication {
 		if(true){
 			jhjvb
 			n n 	grf				                                                                                                                              
-			                                                       
+			                                                          
 			                                                                                                    
 		System.out.println("chechttps://google.github.io/styleguide/javaguide.html\r\n"
 				+ "k");

@@ -15,7 +15,8 @@ public class InventoryApplication {
 			n n 	grf				                                                                                                                              
 			                                                       
 			                                                                                                    
-		System.out.println("check");
+		System.out.println("chechttps://google.github.io/styleguide/javaguide.html\r\n"
+				+ "k");
 		}
 		System.out.println("Checking Pre commit hook..........!");
 	}

@@ -16,9 +16,7 @@ public class InventoryApplication {
  		 
  		                                                                                                                                gfhgfg
  		    okay let
-		    vhvhvhvh
- 		blank  check h
-		okay fix this
+		    vh
 		System.out.println("Checking Pre commit hook..........!");
 	}
 

@@ -12,7 +12,7 @@ public class InventoryApplication {
 		int j=0;
 		if(true){
 			jhjv
-			n n 					                                                                                                                              
+			n n 	grf				                                                                                                                              
 			                                                       
 			
 		System.out.println("check");

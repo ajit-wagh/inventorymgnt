@@ -14,7 +14,7 @@ public class InventoryApplication {
  		 
                          
  		 
- 		                                                                                                                                   gfhgfg
+ 		                                                                                                                                gfhgfg
  		    okay let
 		    
  		blank  check h

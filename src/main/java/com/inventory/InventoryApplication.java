@@ -1,4 +1,4 @@
-package com.invent;
+package com.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,14 +9,14 @@ public class InventoryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryApplication.class, args);
 		System.out.println("Hello World");
-		int b  this check in from eclips 
- 
- 		 
-		C:/Program Files/Java/jdk-11/bin          
- 		 
- 		                            ij	                                                                                              gfhgfg
- 		    okay let
-		    vh
+		int j=0;
+		if(true){
+			jhjv
+			n n 					                                                                                                                              
+			                                                       
+			
+		System.out.println("check");
+		}
 		System.out.println("Checking Pre commit hook..........!");
 	}
 

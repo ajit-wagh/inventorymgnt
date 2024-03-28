@@ -1,4 +1,4 @@
-package com.inventory;
+package com.invent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,7 +12,7 @@ public class InventoryApplication {
 		int b   
  
  		 
-                         
+		C:/Program Files/Java/jdk-11/bin            
  		 
  		                                                                                                                                gfhgfg
  		    okay let

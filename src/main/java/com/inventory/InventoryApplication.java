@@ -12,7 +12,7 @@ public class InventoryApplication {
 		int b   
  
  		 
-		C:/Program Files/Java/jdk-11/bin            
+		C:/Program Files/Java/jdk-11/bin          
  		 
  		                            ij	                                                                                              gfhgfg
  		    okay let

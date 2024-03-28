@@ -14,7 +14,7 @@ public class InventoryApplication {
 			jhjv
 			n n 	grf				                                                                                                                              
 			                                                       
-			
+			                                                                                                   
 		System.out.println("check");
 		}
 		System.out.println("Checking Pre commit hook..........!");

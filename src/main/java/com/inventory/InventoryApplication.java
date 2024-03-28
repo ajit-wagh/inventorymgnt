@@ -14,7 +14,7 @@ public class InventoryApplication {
  		 
 		C:/Program Files/Java/jdk-11/bin            
  		 
- 		                            	                                                                                              gfhgfg
+ 		                            ij	                                                                                              gfhgfg
  		    okay let
 		    vh
 		System.out.println("Checking Pre commit hook..........!");

@@ -9,7 +9,7 @@ public class InventoryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryApplication.class, args);
 		System.out.println("Hello World");
-		int b   
+		int b  this check in from eclips 
  
  		 
 		C:/Program Files/Java/jdk-11/bin          

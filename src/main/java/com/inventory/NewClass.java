@@ -1,7 +1,9 @@
 package com.inventory;
 
 public class NewClass {
-			jhbjhvhjvh
-			
-			sdvsadva
+  void doSomething01() {
+    if (true) {
+      System.out.println("okay");
+    }
+  }
 }
